@@ -1,8 +1,8 @@
-remote_theme: pages-themes/minimal@v0.2.0
+remote_theme: pages-themes/slate@v0.2.0
 plugins:
   - jekyll-remote-theme # add this line to the plugins list if you already have one
 title: Tatooine | Desert planet
-logo: /assets/img/github-mark/github-mark/github-mark-white.png
-description: This is my website guide
+# logo: /assets/img/github-mark/github-mark/github-mark-white.png
+description: This is my Potal Website.
 show_downloads: false
 # google_analytics: [Your Google Analytics tracking ID]
