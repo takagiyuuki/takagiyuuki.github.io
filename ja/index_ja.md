@@ -1,3 +1,9 @@
+---
+layout: page
+title: 惑星タトウィーン
+permalink: /ja/index
+---
+
 <p align="center">
   <a href="https://github.com/takagiyuuki">
     <img alt="Github" src="./assets/img/github-mark/github-mark/github-mark.svg" width="60" />
@@ -7,7 +13,7 @@
   M'um m'aloo
 </h1>
 
-[English](./index.md) | 日本語
+[English](../index.md) | 日本語
 
 Hi.I'm Yuuki.
 

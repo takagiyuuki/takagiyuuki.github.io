@@ -7,7 +7,7 @@
   M'um m'aloo
 </h1>
 
-English | [日本語](./index_ja.md)
+English | [日本語](./ja/index_ja.md)
 
 Hi.I'm Yuuki.
 
