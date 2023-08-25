@@ -7,7 +7,7 @@
   M'um m'aloo
 </h1>
 
-English | [日本語](./index_ja.md)
+[English](./index.md) | 日本語
 
 Hi.I'm Yuuki.
 
@@ -85,12 +85,10 @@ aaaa sample text
 #### Go
 
 aaaa sample text
-<--!
 
 #### Dart
 
 多分消す予定(Flutter を使ったアプリ制作に Dart を使うかどうか確認する。使わないなら消す)
---!>
 
 #### JavaScript/TypeScript
 
