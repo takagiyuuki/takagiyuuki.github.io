@@ -21,7 +21,7 @@ If you have any recommended services, please share them with me!
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=takagiyuuki&repo=teraterm-templates&show_owner)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=takagiyuuki&repo=notion-blog&show_owner](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=takagiyuuki&repo=notion-blog&show_owner)](https://github.com/anuraghazra/github-readme-stats)
 
 ## 📎Work career
 
