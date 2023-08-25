@@ -1,9 +1,9 @@
-remote_theme: pages-themes/modernist@v0.2.0
+remote_theme: pages-themes/dinky@v0.2.0
 plugins:
   - jekyll-remote-theme # add this line to the plugins list if you already have one
-title: [The title of your site]
-description: [A short description of your site's purpose]
-show_downloads: [false]
+title: [Tatooine | Desert planet]
+description: [This is my website guide]
+show_downloads: [true]
 google_analytics: [Your Google Analytics tracking ID]
 github:
   zip_url: https://takagiyuuki.github.io/download.zip
