@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://github.com/takagiyuuki">
-    <img alt="Github" src="./img/github-mark/github-mark/github-mark.svg" width="60" />
+    <img alt="Github" src="./assets/img/github-mark/github-mark/github-mark.svg" width="60" />
   </a>
 </p>
 <h1 align="center">
