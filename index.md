@@ -17,6 +17,12 @@ And I develop software in weekend on Github.
 I am always looking for new and exciting services and software.
 If you have any recommended services, please share them with me!
 
+## My Services
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=takagiyuuki&repo=teraterm-templates)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=takagiyuuki&repo=takagiyuuki.github.io](https://github.com/anuraghazra/github-readme-stats)
+
 ## 📎Work career
 
 ### 🌐Infra Development - Network
