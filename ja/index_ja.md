@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Tatooine
-permalink: /ja/index
+permalink: /ja
 ---
 
 <p align="center">
